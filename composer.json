@@ -11,7 +11,8 @@
         "drupal/linkit": "^4.3",
         "drupal/video_embed_field": "^2.0",
         "drupal/colorbox": "^1.4",
-        "drupal/views_slideshow": "^4.6"
+        "drupal/views_slideshow": "^4.6",
+        "drupal/bootstrap": "^3.13"
     },
     "replace": {
         "drupal/core": "^8.6"
