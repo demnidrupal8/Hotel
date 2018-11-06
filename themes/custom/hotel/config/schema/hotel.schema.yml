@@ -1,0 +1,5 @@
+# Schema for the theme setting configuration file of the hotel theme.
+
+hotel.settings:
+  type: theme_settings
+  label: 'hotel settings'
